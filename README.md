@@ -1,13 +1,12 @@
-[![Github](https://img.shields.io/badge/Github-BOTOL--MEHEDI-green?style=flat-square&logo=github)](https://github.com/botolmehedi) [![Facebook](https://img.shields.io/badge/Facebook-TEAM--VVIRUS-blue?style=flat-square&logo=facebook)](https://www.facebook.com/groups/231747098048450) [![IYoutube](https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube)](https://www.youtube.com/mastertrick1)
-
-<h1 align="center">BINTv1.0</h1>
+[![Github](https://img.shields.io/badge/Github-ASAD--KHAN-green?style=flat-square&logo=github)](https://github.com/asadkhan82)
+<h1 align="center">ASADv1.0</h1>
 <p align="center">
       A new international facebook account cracker tool for termux users
 </p>
 
-## 馃攳 ***About BINT***:
+## 馃攳 ***About ASAD***:
 
-BINT is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
+ASAD is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## All commands for install this tool
 $ pkg update && pkg upgrade
@@ -24,7 +23,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bint
+$ git clone https://github.com/asadkhan82/ASAD1
 <br/>
 $ pip2 install requests
 <br/>
@@ -34,7 +33,7 @@ $ ls
 <br/>
 $ cd bint
 <br/>
-$ python2 bint.py
+$ python2 ASAD.py
 <br/>
 ...
 <br/>
@@ -45,32 +44,10 @@ $ python2 bint.py
 ....
 <br/>
 
-* Note:- Don't try to edit or modify this tool.
-
-## 馃敆 ***Check this***
-
-### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
-
-## 馃懃 ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
+* Note:- Don't try to edit or modify this tool
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/asadkhan82
 
 ### 馃摙 Warning
 
